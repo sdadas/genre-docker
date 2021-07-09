@@ -1,0 +1,8 @@
+torch
+transformers
+git+git://github.com/nicola-decao/fairseq@4c4d5a71b37a960c67981be5d1be033c9e3e7fd7#egg=fairseq
+git+git://github.com/facebookresearch/GENRE@main#egg=genre
+marisa-trie
+sentencepiece
+flask
+rust_fst
